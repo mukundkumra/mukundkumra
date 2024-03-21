@@ -11,9 +11,9 @@
 <br />
 
 <div align="center">
-  <a href="https://bento.me/mukundkumra" target="_blank"><img src="https://img.shields.io/badge/bento-%23738df9?style=for-the-badge&logo=bento&logoColor=white" target="_blank"></a>&nbsp;
-  <a href="https://twitter.com/mukundKumraIO" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>&nbsp;
-  <a href="mailto:mukundkumra.io@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;
+  <a href="https://bento.me/mukundkumra" target="_blank"><img src="https://img.shields.io/badge/bento-%23738df9?style=for-the-badge&logo=bento&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/mukundKumraIO" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
+  <a href="mailto:mukundkumra.io@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mukund-kumra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
@@ -88,18 +88,18 @@
 
 <div align="center">
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/mukundkumra/pro-football-academy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mukundkumra&repo=pro-football-academy&theme=midnight-purple&hide_border=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/mukundkumra/drum-kit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mukundkumra&repo=drum-kit&theme=midnight-purple&hide_border=true" />
 </a>
 </div>
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/mukundkumra/simon-game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mukundkumra&repo=simon-game&theme=midnight-purple&hide_border=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/mukundkumra/todo-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mukundkumra&repo=todo-app&theme=midnight-purple&hide_border=true" />
 </a>
 </div>
