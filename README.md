@@ -1,4 +1,5 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=4000&pause=500&color=7130D9&center=true&vCenter=true&random=false&width=500&lines=Hey+there%F0%9F%91%8B%F0%9F%8F%BC;I'm+Mukund!;I'm+a+Web+Developer" alt="Hey! I'm Mukund, a Full-Stack Web-Developer"/></a></h1>
+<!-- <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=4000&pause=500&color=7130D9&center=true&vCenter=true&random=false&width=500&lines=Hey+there%F0%9F%91%8B%F0%9F%8F%BC;I'm+Mukund!;I'm+a+Web+Developer" alt="Hey! I'm Mukund, a Full-Stack Web-Developer"/></a></h1> -->
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=4000&pause=500&color=9745F5FF&center=true&vCenter=true&random=false&width=500&lines=Hey+there%F0%9F%91%8B%F0%9F%8F%BC;I'm+Mukund!;I'm+a+Web+Developer" alt="Hey! I'm Mukund, a Full-Stack Web-Developer"/></a></h1>
 
 <br />
 
