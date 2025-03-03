@@ -76,7 +76,7 @@
 
 <div align="center">
 <div>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mukundkumra&theme=midnight-purple&hide_border=true" alt="Mukund's Github Streak" />
+<img src="https://streak-stats.demolab.com?user=mukundkumra&theme=midnight-purple&hide_border=true" alt="Mukund's Github Streak" />
 </div>
 
 <!-- <br /> -->
