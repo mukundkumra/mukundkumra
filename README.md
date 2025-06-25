@@ -1,11 +1,13 @@
 <!-- <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=4000&pause=500&color=7130D9&center=true&vCenter=true&random=false&width=500&lines=Hey+there%F0%9F%91%8B%F0%9F%8F%BC;I'm+Mukund!;I'm+a+Web+Developer" alt="Hey! I'm Mukund, a Full-Stack Web-Developer"/></a></h1> -->
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=4000&pause=500&color=9745F5FF&center=true&vCenter=true&random=false&width=500&lines=Hey+there%F0%9F%91%8B%F0%9F%8F%BC;I'm+Mukund!;I'm+a+Web+Developer" alt="Hey! I'm Mukund, a Full-Stack Web-Developer"/></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=4000&pause=500&color=9745F5FF&center=true&vCenter=true&random=false&width=500&lines=Hey+there%F0%9F%91%8B%F0%9F%8F%BC;I'm+Mukund!" alt="Hey there, I'm Mukund!"/></a></h1>
 
 <br />
 
 <p align="center">
-  Hey, I'm <a href="https://bento.me/mukundkumra" target="_blank">Mukund Kumra</a>, a Full-Stack Web Developer
+  Hey, I'm <a href="https://bento.me/mukundkumra" target="_blank">Mukund Kumra</a>, a Full-Stack Web Developer and an Aspiring CyberSec Professional!
   <br />
+  I am an incoming MSc student in Software Design with Cybersecurity at The Technological University of the Shannon, Athlone, Ireland.
+  <br /> 
   📍Chandigarh, India
 </p>
 
@@ -18,6 +20,7 @@
   <a href="https://www.linkedin.com/in/mukund-kumra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://pin.it/1Eo2jtVZL" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a>
   <a href="https://medium.com/@mukundkumra" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+  <a href="https://steamcommunity.com/id/mukundkumra" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
 
 ---
