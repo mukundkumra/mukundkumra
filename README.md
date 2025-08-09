@@ -6,9 +6,9 @@
 <p align="center">
   Hey, I'm <a href="https://bento.me/mukundkumra" target="_blank">Mukund Kumra</a>, a Full-Stack Web Developer and an Aspiring CyberSec Professional.
   <br />
-  I'm an incoming MS student in CyberSec at TUS, Ireland.
-  <br /> 
-  📍Chandigarh, India
+  I'm an incoming MS CyberSec Student at TUS, Ireland.
+  <br />
+  📍 Chandigarh, India
 </p>
 
 <br />
