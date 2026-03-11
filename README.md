@@ -4,7 +4,7 @@
 <br />
 
 <p align="center">
-  Hey, I'm <a href="https://bento.me/mukundkumra" target="_blank">Mukund Kumra</a>, a Full-Stack Web Developer and an Aspiring CyberSec Professional.
+  Hey, I'm Mukund Kumra, a Full-Stack Web Developer and an Aspiring CyberSec Professional.
   <br />
   I'm an incoming MS CyberSec Student at TUS, Ireland.
   <br />
@@ -14,7 +14,6 @@
 <br />
 
 <div align="center">
-  <a href="https://bento.me/mukundkumra" target="_blank"><img src="https://img.shields.io/badge/bento-%23738df9?style=for-the-badge&logo=bento&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/mukundKumraIO" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
   <a href="mailto:mukundkumra.io@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mukund-kumra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
