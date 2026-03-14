@@ -4,11 +4,11 @@
 <br />
 
 <p align="center">
-  Hey, I'm Mukund Kumra, a Full-Stack Web Developer and an Aspiring CyberSec Professional.
+  Hey, I'm Mukund Kumra, a Software Developer, IT Administrator and an Aspiring CyberSec Professional.
   <br />
-  I'm an incoming MS CyberSec Student at TUS, Ireland.
+  I'm a MS CyberSec Student at TUS, Ireland.
   <br />
-  📍 Chandigarh, India
+  📍 Athlone, Ireland
 </p>
 
 <br />
