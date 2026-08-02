@@ -84,13 +84,13 @@
 <!-- <br /> -->
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=mukundkumra&show_icons=true&theme=midnight-purple&hide_border=true" alt="Mukund's Github Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=mukundkumra&show_icons=true&theme=midnight-purple&hide_border=true" alt="Mukund's Github Stats" />
 </div>
 
 <!-- <br /> -->
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukundkumra&layout=compact&theme=midnight-purple&hide_border=true&hide=mathematica,hlsl,shaderlab,c%23" alt="Mukund's Most Used Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mukundkumra&layout=compact&theme=midnight-purple&hide_border=true&hide=mathematica,hlsl,shaderlab,c%23" alt="Mukund's Most Used Languages" />
 </div>
 </div>
 
