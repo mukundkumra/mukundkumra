@@ -107,18 +107,18 @@
 <div align="center">
 <div>
 <a href="https://github.com/mukundkumra/pro-football-academy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mukundkumra&repo=pro-football-academy&theme=midnight-purple&hide_border=true" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=mukundkumra&repo=pro-football-academy&theme=midnight-purple&hide_border=true" />
 </a>
 <a href="https://github.com/mukundkumra/drum-kit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mukundkumra&repo=drum-kit&theme=midnight-purple&hide_border=true" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=mukundkumra&repo=drum-kit&theme=midnight-purple&hide_border=true" />
 </a>
 </div>
 <div>
 <a href="https://github.com/mukundkumra/simon-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mukundkumra&repo=simon-game&theme=midnight-purple&hide_border=true" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=mukundkumra&repo=simon-game&theme=midnight-purple&hide_border=true" />
 </a>
 <a href="https://github.com/mukundkumra/todo-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mukundkumra&repo=todo-app&theme=midnight-purple&hide_border=true" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=mukundkumra&repo=todo-app&theme=midnight-purple&hide_border=true" />
 </a>
 </div>
 </div>
